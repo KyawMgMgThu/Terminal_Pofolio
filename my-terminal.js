@@ -27,7 +27,7 @@ const directories = {
         '<white>education</white>',
 
         '* <white>High School -</white>  Kan Zun Ahin Private School,Myeik <yellow>"Since => 2015-2022"</yellow> ',
-        '* <white>University -</white> <a href="https://www.ucsmyeik.edu.mm/"Computer University(Myeik)</a> <yellow>"Since => 2022-Now"</yellow>',
+        '* <white>University -</white> <a href="https://www.ucsmyeik.edu.mm/">Computer University(Myeik)</a> <yellow>"Since => 2022-Now"</yellow>',
         ''
     ],
     experience: [
@@ -69,7 +69,8 @@ const directories = {
             'React framework',
             'Vue framework',
             'MySql',
-            'AWS Cloud Computing',
+            'React Native (Just Learning)',
+            'AWS Cloud Computing (Just Learning)',
             
         ].map(lang => `* <yellow>${lang}</yellow>`),
         '',
